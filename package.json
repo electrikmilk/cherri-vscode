@@ -1,11 +1,11 @@
 {
   "name": "cherri",
-  "displayName": "cherri",
-  "description": "Syntax highlighting for cherri",
-  "version": "0.0.2",
-  "publisher": "erenyenigul",
+  "displayName": "Cherri",
+  "description": "Provides support for the Cherri Siri Shortcuts programming language. Provides Syntax highlighting and file icon. Originally by erenyenigul.",
+  "version": "0.0.3",
+  "publisher": "electrikmilk",
   "repository": {
-    "url": "https://github.com/erenyenigul/cherri-vscode-highlight"
+    "url": "https://github.com/electrikmilk/cherri-vscode-highlight"
   },
   "icon": "cherri_icon.png",
   "engines": {
