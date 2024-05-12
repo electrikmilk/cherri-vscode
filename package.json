@@ -1,5 +1,5 @@
 {
-  "name": "cherri",
+  "name": "cherri-vscode-extension",
   "displayName": "Cherri",
   "description": "Provides support for the Cherri Siri Shortcuts programming language. Provides Syntax highlighting and file icon. Originally by erenyenigul.",
   "version": "0.0.3",
