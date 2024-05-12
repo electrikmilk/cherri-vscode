@@ -2,6 +2,8 @@
 
 # Cherri VSCode Extension
 
+VSCode Extension for the [Cherri Siri Shortcuts programming language](https://cherrilang.org).
+
 Currently provides for `.cherri` files:
 - 🎨 Syntax highlighting
 - 🍒 File Icon
